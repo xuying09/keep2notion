@@ -7,12 +7,12 @@
             "birthday": -2208988800000,
             "_id": "570fb6a5fd8e882405b46f17"
         },
-        "id": "570fb6a5fd8e882405b46f17_9223370310708178315_tr",
+        "id": "570fb6a5fd8e882405b46f17_9223370308594180826_tr",
         "feel": 3,
-        "calorie": 221,
-        "duration": 2796,
-        "startTime": 1726143800944,
-        "endTime": 1726146597492,
+        "calorie": 10,
+        "duration": 146,
+        "startTime": 1728260448842,
+        "endTime": 1728260594981,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 109.0,
-            "maxHeartRate": 147,
+            "heartRates": "H4sIAAAAAAAAE62WsWrDMBCG9zyFyJzBZynnc7c8QCF76eCCCoamlMqBQum7124ydPimkwYtv4aP/+70n552IXyvJ4T9XM7TteR9eAiv01vJh5v8kqelnPPn4/x+Xf5ubbhfLfMll2W6fGyqHP/Lp6+53NVV/Dk4MMORMH1HmFVtjBHEiB9jiFHEqB+TCKNYNK0omiAmISa5MToiBoumFUXrCDNEwqxqWzeGvTF/bxQnzfB5mv95KqbAiG7GCjeMwUkb/ZPGIyAd2tnk1iDMm012gyKDjEHWOEBF2JFUOOoRxBtBalYCppv0GAib3LhHvBWkZi0ogiL3KPp7ZNyjyI6i35Fx6RL/QtIt53bPvyUx+unwCAAA",
+            "averageHeartRate": 73.0,
+            "maxHeartRate": 87,
             "wearableDevices": [
                 {
-                    "macAddress": "B2D738C5-BD5A-4431-B64F-2AF0D756031D",
+                    "macAddress": "253CEBB1-262C-4704-A342-C8C405C96BE9",
                     "name": "Apple Watch Series 7",
                     "deviceType": "Apple Watch"
                 }
@@ -64,7 +64,7 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "traditionalGymTraining",
+        "dataType": "mixedAerobicTraining",
         "badgeAchievementCard": null,
         "trainingCourseType": "workout",
         "trainingSource": "others",
