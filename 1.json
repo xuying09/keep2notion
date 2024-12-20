@@ -7,14 +7,14 @@
             "birthday": -2208988800000,
             "_id": "570fb6a5fd8e882405b46f17"
         },
-        "id": "570fb6a5fd8e882405b46f17_9223370303063914915_tr",
+        "id": "570fb6a5fd8e882405b46f17_9223370302288150335_tr",
         "feel": 3,
-        "calorie": 63,
-        "duration": 423,
-        "startTime": 1733790169835,
-        "endTime": 1733790860892,
+        "calorie": 126,
+        "duration": 884,
+        "startTime": 1734565740957,
+        "endTime": 1734566625472,
         "type": "training",
-        "subtype": "normal",
+        "subtype": "elliptical",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE62asYqVMRCFe5/iYm2RZCaTP3Y+gGAvFitcYUFFvCsI4rv7Rxd14UuTk2Kb2eLjZCYnJ/nv22eXy4/z73J5fn97c/ftdn1+eXn5cPfxdn3xp/z+evdwe3P9+vr+87eH3//t9fFfD/efrreHu09fRtXaf9VX3+9vf4pn7eeLFYgRpBKkLkNyKkTJqCWvi8kpkNOQ09Y5OROnFOKc1d0cR44LHOxP6cjp65zqxGkHcc7qOgf1NNTTBD2OW/TAeTuEefODOB33Txf2T0U9PZATAqcRJ6eMG/UsbyexJSShR7x2eWJyistV9OycsU2jvHkfZTa6rDhdRafLbHVZ8boJyViTKZompx6erqO8eyIMDW+U10kJSc6aXNHEfXLW5IomXr3Kmur+PlXWVBVN7HvBvheK701IrCm2p4czx03i3XbSwV5+KF4+IWEkGuXdbtTZ9/p+3+vs5V3wcu9M4tnrStJDUkkcxdP286kkDuNp+34qfF0qyn1pQiq4n0Z5nYQprEyuTEqOCNZkrMkETTMSesQo7yY5a3JFE984nWfPldnDu1OprKkqs4cnYamsqSqa2COCNYWiCfNeCcxGo7zusExqrKkJmoynnJ8hivIOYdynIyHpLK+TePU4RxQlR8xIfD4dwvlUuE/8HFGU94iMp7slzEajvK4JJ8L4PcKU94iCfTLOEabkiIJebpwjTHp3xfdd4xxhSo6YkXD2RnmdxM/8/PhqyuvrZMo5R5iSIyaaOEeYkiMyeoQ55r1R3k7iPinvEZP9VFlTFTQlzEYW7Hsh+F7CbGTBmkLRxFPOOcKUHDFZvYbZaJTXSTx7nCNMyRGJzyfOEabkiAmp4zeAUV4n4aub9SffPv+Rum0meUpEGuVVUsch99QY1ARJGCM8ZySd5WVJOOOesUujvAxCK/LCioqgaAIqB4LKsQzisSudQX0dxD2yhKCzvAxCa3ULBsUyKBcMeu4VSWd5ncR71huTmkDi1asZSWd5mcQXXA8eiFgfiCmJNYWgia+d3lhTEzTNSKypKZp4Ilp0JEVf7xOb3pGRdJaXSfyo7L0i6Syvk3Dn1pSINMrLJH4WrakwqQgk3E81NSY1gYSXwfr0k8pf0lle7xOTCvepCH3iD7m1GJNMIPFElINJx3ZNhjt3lHfvJ+c+ubKfeMqd++RCnyY719FhR3mdhIm8Vu5TFfo0Wb3gPsX+PgVrCkXT5AevrKnt9/KG59MobyexlzfFy3n1DtZ0KJrYyzv3qSt9Yk2dz6cunE+TPnX2iK54BO6nSKhplDe7UWTs0yhvXr3ImI1GeffqZezTKO/WVLhPZfvsBeeIUHIE76cw9IhR3uwRYazJFE28es6afPtdI7wzqQskfPmIitlolNdJvHqV+1SVDMtuFNynEPrEP8mPwDN3lNdJeM+NhtlolNdJ7Hv8ShDKK8GkT5wjQskRfKsJzhHxmCOevfsF2T6XNbE1AAA=",
-            "averageHeartRate": 139.0,
-            "maxHeartRate": 165,
+            "heartRates": "H4sIAAAAAAAAE7WbvY4cNxCEcz3FQrGCGZL9M878AAaUGw7OwBo4wDIM7wkwYOjdtbQUOPg6YdHBJX1BodnFYk1378/vbrd/nn+32/vXx8eXz4/7+9sPt99efn/cP3wL/3p/eXt8vP/10+sfn9/+/e95Ht//9/b66f54e/n05wxH/0/0x79fH9+Cz9iXD0sog1DORjDP6DLOkYgzEGcI+ZyIk4iTQj5GOHYRzjO6ng+ywJEGrvAAz83x3Fw4t7Mzq5nWu3HO40QiPMPrSMFIzki+jtQaIhWXVbmtzRkJaTfD60h4j56psgApOV2MxHVqQp06a1BDcZjhdSRUh7MbIj3Du5EGn95QWM7cM765JtzcCgnFaIZ331xnlrvCcr5P/GCcyotRnJ4zy11geYEUbB5CcA8VEtuHEN7Bxn4omXspcK/zS3gx9y6Be5295MVqdClqVCBxnS6hTh1vbjuwTjO8+X1q/Lo36XUvkDin83/ICevUFD/OjGgNuTfDuxnROKe2P6eOWj7D60ioe23gmzvD60j4PrWBWj7Du09vcJ2GUidU2Gackwk5DXRhjX1EU3xEhcQa4YJGDL5P7COa4iMG14l9RFN8RJFTHoj0DK8j4bdGYx/RFB9RMIJ9RJN8BHqjduG3xgxvPr1+YE4zvJkR/UAtn+HdSCdyb4Z3nx77iK74CL65vXFObX9OjevUlDoVSPg+dcVHFKfXuU5dqRO+7r2jls/wOhI6lj44pyHkZKh73VgjTNAI4zoZc88E7hVIzvfJhftk6MK6oy+f4XUk5h77iK74CGPucRO7K11sZ41I5l4K3KuQmHspcM/5fUrWvRR0r0BiH9EVH+F4nwZPG4YybXDk3mAfMRQf4XifxoF1muHdOZ2oETO8Oyf2EUPxERUSasQMryPh/GmwjxiKj3D05aPj99MM70YaqHszvB2J79NQ7hMjsY8Yio+okLhOSj+i4J6z7rmiewUS3yelH1GcHo/ChzILL3SPfcTY7yMG9yOG0o+okJh7KXDPmBGJfm+G15FYyy/O6VLuEzoWYx9hko8okJB7psw1uE7Gcw1T5hoVEuek9CMMNcJ4rmHKXIO5ZzzXMGWuwV81xlsLpmwtFDmxjzDFRxRI7CNM8REVEn5rmLIfUbCc5xqmzDUKlrOPMMVHFKfHcw1T5hoVEufkSk7Y+bDAN3eG15Hw69MCPewMb0di7in7EYUasY+w/T7CuB9hSj+iYMTFdbqUOiHLnecarsw1DH2Ecz/ClX6E8Ybqge/TDC8jDdxa8BO1fIbXkZDl3tDvzfDunHj70ZXtxwqJ66T4iAKJ9yNc2Y/gGYCzj3DJR6DCOvsIl3wEqpGzj/D9PsJ5z9KVPUvnnLgf4VI/gnXPuU6u9JY5p+CcYntv2dlHuOIjuJvjwRoRgkY4awT7CFd8RIHE+xGu7EdUSJyT0o8IfnN5z9KVPUtGCu5HhNKPCPRGwf2IUPoRgTc3+FcUofyKokLCOoXSjwh8n4J9RCg+omBER92b4c1qFJ1z6oqWo8LGwG/CGd6OxNyT5hqMZJyTKTlxnbgfEdJcg1nO/YhQ+hEVEtdJ+b1GhcQaocw1+Is62EeE1I9g7vF+RCj7ERUSa0QqvpyR2EeE4iP42z14PyKU/YgKibmn+Aj+JswD++UzvI6EdUr2Ean4CN6qS55rpLRnWSChL5/hdSR0LMlzjVTmGrwPmx3fpxnejsR1kvYsUcuz432a4XUk7Hwk/14jpd9rYJcgeT8ilf2IzhrB/YhU+hGFRnA/IpV+RHGf2Eek4iMK7rGPSMVHFNzj32uk8nuNjo4lea6R3+ca7375CgkhW5XYQwAA",
+            "averageHeartRate": 148.0,
+            "maxHeartRate": 175,
             "wearableDevices": [
                 {
-                    "macAddress": "0483F700-928D-438C-8A9F-2D9FCD4053FC",
+                    "macAddress": "3CADFC06-9F83-4248-AA55-ED8C9E3A34FE",
                     "name": "Apple Watch Series 7",
                     "deviceType": "Apple Watch"
                 }
@@ -64,7 +64,7 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "skipping",
+        "dataType": "elliptical",
         "badgeAchievementCard": null,
         "trainingCourseType": "workout",
         "trainingSource": "others",
