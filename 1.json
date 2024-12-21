@@ -7,14 +7,14 @@
             "birthday": -2208988800000,
             "_id": "570fb6a5fd8e882405b46f17"
         },
-        "id": "570fb6a5fd8e882405b46f17_9223370302288150335_tr",
+        "id": "570fb6a5fd8e882405b46f17_9223370302261001348_tr",
         "feel": 3,
-        "calorie": 126,
-        "duration": 884,
-        "startTime": 1734565740957,
-        "endTime": 1734566625472,
+        "calorie": 201,
+        "duration": 2092,
+        "startTime": 1734591682070,
+        "endTime": 1734593774459,
         "type": "training",
-        "subtype": "elliptical",
+        "subtype": "normal",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,12 +36,12 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE7WbvY4cNxCEcz3FQrGCGZL9M878AAaUGw7OwBo4wDIM7wkwYOjdtbQUOPg6YdHBJX1BodnFYk1378/vbrd/nn+32/vXx8eXz4/7+9sPt99efn/cP3wL/3p/eXt8vP/10+sfn9/+/e95Ht//9/b66f54e/n05wxH/0/0x79fH9+Cz9iXD0sog1DORjDP6DLOkYgzEGcI+ZyIk4iTQj5GOHYRzjO6ng+ywJEGrvAAz83x3Fw4t7Mzq5nWu3HO40QiPMPrSMFIzki+jtQaIhWXVbmtzRkJaTfD60h4j56psgApOV2MxHVqQp06a1BDcZjhdSRUh7MbIj3Du5EGn95QWM7cM765JtzcCgnFaIZ331xnlrvCcr5P/GCcyotRnJ4zy11geYEUbB5CcA8VEtuHEN7Bxn4omXspcK/zS3gx9y6Be5295MVqdClqVCBxnS6hTh1vbjuwTjO8+X1q/Lo36XUvkDin83/ICevUFD/OjGgNuTfDuxnROKe2P6eOWj7D60ioe23gmzvD60j4PrWBWj7Du09vcJ2GUidU2Gackwk5DXRhjX1EU3xEhcQa4YJGDL5P7COa4iMG14l9RFN8RJFTHoj0DK8j4bdGYx/RFB9RMIJ9RJN8BHqjduG3xgxvPr1+YE4zvJkR/UAtn+HdSCdyb4Z3nx77iK74CL65vXFObX9OjevUlDoVSPg+dcVHFKfXuU5dqRO+7r2jls/wOhI6lj44pyHkZKh73VgjTNAI4zoZc88E7hVIzvfJhftk6MK6oy+f4XUk5h77iK74CGPucRO7K11sZ41I5l4K3KuQmHspcM/5fUrWvRR0r0BiH9EVH+F4nwZPG4YybXDk3mAfMRQf4XifxoF1muHdOZ2oETO8Oyf2EUPxERUSasQMryPh/GmwjxiKj3D05aPj99MM70YaqHszvB2J79NQ7hMjsY8Yio+okLhOSj+i4J6z7rmiewUS3yelH1GcHo/ChzILL3SPfcTY7yMG9yOG0o+okJh7KXDPmBGJfm+G15FYyy/O6VLuEzoWYx9hko8okJB7psw1uE7Gcw1T5hoVEuek9CMMNcJ4rmHKXIO5ZzzXMGWuwV81xlsLpmwtFDmxjzDFRxRI7CNM8REVEn5rmLIfUbCc5xqmzDUKlrOPMMVHFKfHcw1T5hoVEufkSk7Y+bDAN3eG15Hw69MCPewMb0di7in7EYUasY+w/T7CuB9hSj+iYMTFdbqUOiHLnecarsw1DH2Ecz/ClX6E8Ybqge/TDC8jDdxa8BO1fIbXkZDl3tDvzfDunHj70ZXtxwqJ66T4iAKJ9yNc2Y/gGYCzj3DJR6DCOvsIl3wEqpGzj/D9PsJ5z9KVPUvnnLgf4VI/gnXPuU6u9JY5p+CcYntv2dlHuOIjuJvjwRoRgkY4awT7CFd8RIHE+xGu7EdUSJyT0o8IfnN5z9KVPUtGCu5HhNKPCPRGwf2IUPoRgTc3+FcUofyKokLCOoXSjwh8n4J9RCg+omBER92b4c1qFJ1z6oqWo8LGwG/CGd6OxNyT5hqMZJyTKTlxnbgfEdJcg1nO/YhQ+hEVEtdJ+b1GhcQaocw1+Is62EeE1I9g7vF+RCj7ERUSa0QqvpyR2EeE4iP42z14PyKU/YgKibmn+Aj+JswD++UzvI6EdUr2Ean4CN6qS55rpLRnWSChL5/hdSR0LMlzjVTmGrwPmx3fpxnejsR1kvYsUcuz432a4XUk7Hwk/14jpd9rYJcgeT8ilf2IzhrB/YhU+hGFRnA/IpV+RHGf2Eek4iMK7rGPSMVHFNzj32uk8nuNjo4lea6R3+ca7375CgkhW5XYQwAA",
-            "averageHeartRate": 148.0,
-            "maxHeartRate": 175,
+            "heartRates": "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",
+            "averageHeartRate": 121.0,
+            "maxHeartRate": 155,
             "wearableDevices": [
                 {
-                    "macAddress": "3CADFC06-9F83-4248-AA55-ED8C9E3A34FE",
+                    "macAddress": "2033C869-D39E-4F7A-ACD5-D4DF1B1F9F25",
                     "name": "Apple Watch Series 7",
                     "deviceType": "Apple Watch"
                 }
@@ -64,7 +64,7 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "elliptical",
+        "dataType": "traditionalGymTraining",
         "badgeAchievementCard": null,
         "trainingCourseType": "workout",
         "trainingSource": "others",
