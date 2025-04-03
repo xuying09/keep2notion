@@ -7,14 +7,14 @@
             "birthday": -2208988800000,
             "_id": "570fb6a5fd8e882405b46f17"
         },
-        "id": "570fb6a5fd8e882405b46f17_9223370293427427807_hk",
+        "id": "570fb6a5fd8e882405b46f17_9223370293340974807_cy",
         "feel": -1,
-        "calorie": 58,
-        "duration": 1005,
-        "startTime": 1743426343000,
-        "endTime": 1743427348000,
-        "type": "hiking",
-        "subtype": "normal",
+        "calorie": 122,
+        "duration": 1301,
+        "startTime": 1743512500000,
+        "endTime": 1743513801000,
+        "type": "cycling",
+        "subtype": "puncheur",
         "timezone": "Asia/Shanghai",
         "richText": "",
         "entryInfo": {
@@ -36,17 +36,15 @@
         "doubtfulScore": 0.0,
         "flags": [
             6001,
-            29,
-            95,
-            10095001
+            462
         ],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE72asWpcMRBFe3/F4trF03uSZiadPyDg3rjYwDos2CHkrSEQ8u9ZOQ6kOOp0VWxzt7mMrkZHo/d4czj8uv4Oh9vnl+PX/fbw6fB48y483f3Vz/vD8W0/tX+ejy/76UP+cjpe9ofTj8/nb2+X93/TUj7+u5xfT/vl+Pq9yXnb6n/6/c/z/k++qr/vhjqo7KCwgyJwkNFBDnRwlcc7CHRQDB1c5fEONnTg7MDnOQhOYiiS2HGQ2UEWOFjJQVmwBk0e7yCxA9yNTZ5Vg5TQwVWeVYOEOWjypCSWlXOwKnLAq7A6O/Bpq7At6OAqT3PAOdgUOWAHmXOQ5+UgV3ZQpzkonIOiyEHHAZ6NRXI6s4PKSazzkliRkZo8y4FxDmxePzCugY2vQSCsF+cY+PgYBOfQ+VTw8aeC42WhMCQWAST2DDAfxXg+ioUM1AW3QZOHG8DbUl0wA02eswtq4gokQQWQzmrCDDR5eAjxulhX7ANNntMH6opU0OThBrAVVx5bVMHYorMEPLWogqmF8zbMnIE8PgM9A3gaVsHUpGOAwbAKwLDTCQtXoAh4gA1UrkCd1gmZCquACjsVsBUNXOVZBrgPmIAHeAmYCauCCfk4ds6ACzLgaICZsEoGh8xkgRfEJg8vAVKpLTgza/KcFNqCIWjynBQaz+xMMLPrGcBGYAIo7BhY8TBo8qRtYCuHYFXMCNjBhsdBk+f0Itu4BJtgHyCXGmOhCbCwtwaZN0JWvCCwg8IpKONTkFLHAcdAQIYp4QXJGA1NgIZp4a1Q8VBs8ngHfCgZ7wWb9p5nhvfkJo93wDlwJgOf9ppmzv3A5/WD4L0Q014QjKeGJpgadhw4jw1dMDbs7EZnRHQBIna+83B+WXbJyzKvAkOiKyARLwrOk0NXTA6RUn3FU6HJww0YGuBnZRc8K/PEwBkRXYGIXIGMeNTk4QZ4F2TOQB6fAecQFpwYNHm4Ac5A4T5QZr0gOD8ou+BBmZ+xvCIZNXl4BbgTMhy6AA47GWA2dAEbOh/Izp3Qx3dC5wwwGbqADJ0bEX/w54IP/joZCD4LQvCGgksQC54FTR5uAG8Hwd8bhuB7Q85A8GtyCF6TOxVImIEmjzZgyAPBTBgCJuwZwE4Ygtdkw9MwmAlDwISdDDAThoAJOwYyVyALKoCdMHhqGIKpIRNRFLwcNnm0Af6kIZgJQ8CEjGTBTBgCJnScGAZPDEMwMXRuRMyEoWBCroBxBUxQATbATBgCJuzsAmbCEDAhX06Dh4UhGBbyhCR4Vhgfs8Kbpz8uTX9yFjYAAA==",
-            "averageHeartRate": 94.36449,
-            "maxHeartRate": 111,
+            "heartRates": "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",
+            "averageHeartRate": 112.792305,
+            "maxHeartRate": 134,
             "wearableDevices": [
                 {
-                    "macAddress": "A31E15D4-A4F7-468D-A78D-96C25171724C",
+                    "macAddress": "0F6AB377-FB9A-4E8B-B26D-51ED49155D12",
                     "name": "Apple Watch Series 7",
                     "deviceType": "Apple Watch"
                 }
@@ -69,36 +67,18 @@
         "feedback": null,
         "feedbacks": null,
         "playType": null,
-        "dataType": "outdoorWalking",
+        "dataType": "indoorCycling",
         "badgeAchievementCard": null,
         "goalType": "casual",
         "goalValue": 0,
-        "distance": 1110.3939208984375,
-        "averagePace": 905,
-        "averageSpeed": 3.9,
+        "distance": 0.0,
+        "averagePace": 1,
+        "averageSpeed": 0.0,
         "polylineSnapshot": null,
-        "constantVersion": "1.3.21",
-        "rawDataURL": "https://ot-sport-log.keepcdn.com/ot-sport-log/ot/EkVkWMKYYDA5iuWR47OLhy1OZ7tKsBz8q-etKGTYA6MNNfnFgsqdGv6jSLZ2FQYF.txt",
-        "crossKmPoints": [
-            {
-                "id": null,
-                "kmPace": 756,
-                "kmNO": 1,
-                "latitude": 0.0,
-                "longitude": 0.0,
-                "altitude": 0.0,
-                "timestamp": 7500,
-                "totalDistance": 1011.8836669921875,
-                "totalDuration": 765.0,
-                "totalSteps": 1089.0,
-                "averagePointsNum": 0.0,
-                "averageAccuracyRadius": 0.0,
-                "totalCalories": 0,
-                "averageHeartRate": 0,
-                "stepFrequency": 85
-            }
-        ],
-        "geoPoints": "DG1/+GvZgxTySUetWoDGRcGM8SCvwsQSLXd68h+Imi8CfsW768d8tZBXK+vNBIqutHheRDTsKUs7EHLaA44DfOEYW3nlb3mNCVh9a9H8UOQCpAzMeeutkYSNtJu8xVALd9JhAmw0KHP03ikzmQdqPa3rXIAGNUumv3go4t2+lrORVCAm6NsmTdhy9yq1joJZutvY9H04y+B95jv2aDlSNkZutdGMAxXJj4g5sbRx2qzzcGkfv2ivNVh+MSmKGMZuf8aqqhdgIJ/TWcWxfkyZbDovEdddkU+f9uxuuVh5+G5fI6QVYy98PlX0vgsHKLt08GVFJuY+gtmH3wE5rNi/RN95n9JqcJHKzE2Sd1Vn4KzqVycsXU3bbaeIYjdGsG5ocFXBUrWpY8FG+sXez2tWRauOmd0pf5k04VVs45VnENRyAbGo9HVmo+16RPe77JNT3TAVRomsAeNxVoQYNhCEv7vo+6DIIEfp4qJZxRIosAY=",
+        "constantVersion": "130.9",
+        "rawDataURL": "https://ot-sport-log.keepcdn.com/ot-sport-log/ot/EkVkWMKYYDA5iuWR47OLhy1OZ7tKsBz8q-etKGTYA6N6gDW1CAv7X5_teXs7vMUq.txt",
+        "crossKmPoints": [],
+        "geoPoints": "",
         "region": {
             "latitude": 29.356863,
             "longitude": 121.435368,
@@ -118,8 +98,8 @@
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
-        "stepPoints": "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",
-        "fullStepPoints": "H4sIAAAAAAAAE4vm4ooFAKoX6t8EAAAA",
+        "stepPoints": "",
+        "fullStepPoints": null,
         "baselineAltitude": 0.0,
         "trainingDevices": null,
         "groupRetro": null,
@@ -129,7 +109,15 @@
         "skinId": "572f461ba864f62c05417a52",
         "achievementInfos": [],
         "intervalRunData": null,
-        "pbInfos": [],
+        "pbInfos": [
+            {
+                "mileStone": "maxDuration",
+                "preValue": 0.0,
+                "preLogId": null,
+                "curValue": 1301.0,
+                "curLogId": "570fb6a5fd8e882405b46f17_9223370293340974807_cy"
+            }
+        ],
         "challengeInfos": null,
         "rookieFirstShowReward": null,
         "sideEnCard": null,
@@ -150,11 +138,8 @@
             "schema": null
         },
         "rpeFeedBack": null,
-        "totalSteps": 1347,
-        "stepFrequencies": null,
-        "averageStepFrequency": 80.43141849523838,
-        "maxDiffOfAltitude": 0.0,
-        "kelotonData": null
+        "maxSpeed": 0.0,
+        "sharedBikeOrderId": null
     },
     "errorCode": 0,
     "text": ""
