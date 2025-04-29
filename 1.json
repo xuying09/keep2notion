@@ -7,12 +7,12 @@
             "birthday": -2208988800000,
             "_id": "570fb6a5fd8e882405b46f17"
         },
-        "id": "570fb6a5fd8e882405b46f17_9223370291203939648_hk",
+        "id": "570fb6a5fd8e882405b46f17_9223370291010536134_hk",
         "feel": 3,
-        "calorie": 2,
-        "duration": 15,
-        "startTime": 1745650820905,
-        "endTime": 1745650836159,
+        "calorie": 375,
+        "duration": 1860,
+        "startTime": 1745842379475,
+        "endTime": 1745844239673,
         "type": "hiking",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,16 +36,22 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE4vm4ooFAKoX6t8EAAAA",
-            "averageHeartRate": 0.0,
-            "maxHeartRate": 0,
-            "wearableDevices": []
+            "heartRates": "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",
+            "averageHeartRate": 150.0,
+            "maxHeartRate": 174,
+            "wearableDevices": [
+                {
+                    "macAddress": "BCDEC1C8-DECA-4F35-85FF-5230891AD5A7",
+                    "name": "Apple Watch Series 7",
+                    "deviceType": "Apple Watch"
+                }
+            ]
         },
         "vendor": {
             "source": "Keep",
             "manufacturer": null,
             "genre": "AutoGene",
-            "deviceModel": "",
+            "deviceModel": "health_workout",
             "vendorRecordId": null
         },
         "planId": null,
@@ -85,7 +91,7 @@
         },
         "weatherInfo": null,
         "targetSpm": 0,
-        "accumulativeUpliftedHeight": 6.0,
+        "accumulativeUpliftedHeight": 0.0,
         "accumulativeClimbingDistance": 0.0,
         "mapboxStyle": null,
         "privacy": false,
@@ -110,21 +116,7 @@
         "overseasMapInfo": null,
         "equipmentInfo": null,
         "fences": null,
-        "heartRateGuide": {
-            "title": "连接心率设备",
-            "picture": "https://static1.keepcdn.com/infra-cms/2024/3/14/18/52/553246736447566b58312b6e536d45724d31554a72686a5172647631715057797775575658426f714c76553d/600x420_3050b13536d61df7667c4261872877f756c6c636.png",
-            "schema": "keep://store_item/20110?type=1&pageId=44&productDetailType=1&kbizPos=product_hiking_complete",
-            "name": "解锁心率和最大摄氧量数据，获取更精准的运动能力与状态",
-            "button": "立即解锁",
-            "buttonTextColour": "#24c789",
-            "buttonBgColour": [
-                "#ffffff"
-            ],
-            "backgroundColour": [
-                "#f6fbf7",
-                "#ffffff"
-            ]
-        },
+        "heartRateGuide": null,
         "trainingEffect": null,
         "webviewCards": [],
         "feelFeedback": {
